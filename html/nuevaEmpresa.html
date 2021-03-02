@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="/style.css">
+    <link rel="stylesheet" href="/css/bootstrap.min.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NUEVA EMPRESA</title>
+</head>
+<body>
+    <div class="itemH2">
+        <h2>NUEVA EMPRESA</h2>
+    </div>
+    <div class="row" >
+        <form class="col-md-10 offset-md-1" id="formularioEmp">
+           
+            <div class="form-row">
+                <div class="form-group col-md-4">
+                    <label for="gm"> GM </label>
+                    <input type="text" class="form-control" id="gm">
+                </div>
+                <div class="form-group col-md-4">
+                    <label for="gsr"> GSR </label>
+                    <input type="text" class="form-control" id="gsr">
+                </div>
+                <div class="form-group col-md-4">
+                    <label for="gsi"> GSI </label>
+                    <input type="text" class="form-control" id="gsi">
+                </div>
+            </div>
+            <div class="form-row">
+                <div class="form-group col-md-4">
+                    <label for ="gss" > GSS </label>
+                    <input type="text" class="form-control" id="gss">
+                </div>
+                <div class="form-group col-md-4">
+                    <label for ="gsa" > GSA </label>
+                    <input type="text" class="form-control" id="gsa">
+                </div>
+                <div class="form-group col-md-4">
+                    <label for ="gsp" > GSP</label>
+                    <input type="text" class="form-control" id="gsp">
+                </div>
+            </div>
+            <div class="form-row">
+                <div class="form-group col-md-4">
+                    <label for ="empresa" > Empresa </label>
+                    <input type="text" class="form-control" id="nombreEmp" placeholder="Nombre Empresa">
+                </div>
+                <div class="form-group col-md-4">
+                    <label for ="nombre" > Contacto </label>
+                    <input type="text" class="form-control"  id="nombreResp" placeholder="Nombre Responsable">
+                </div>                        
+                <div class="form-group col-md-4">
+                    <label for ="email" > Email </label>
+                    <input type="text" class="form-control" id="emailResp" placeholder="Email Responsable">
+                </div>
+            </div>
+           <div class="form-row">
+            <div class="form-group col-md-4">
+                <label for ="telefono" > Telefono </label>
+                <input type="text" class="form-control" id="telefonResp" placeholder="Telefono Responsable">
+            </div>
+            
+                <div class="form-group col-md-4">
+                    <label for ="practicas" > Practicas </label>
+                    <select class="form-control" id="practicas">
+                     <option value="">Seleccione</option>
+                    </select>
+                    <!--<input type="text" class="form-control" id="practicasEmp" placeholder="Tipo de Practicas">-->
+                </div>
+            <div class="form-group col-md-4">
+                <label for ="observaciones" > Observaciones </label>
+                <input type="text" class="form-control" id="observaciones" >
+            </div>
+            <div class="form-group col-md-4">
+                <label for ="id" > id </label>
+                <input type="text" class="form-control" id="idEmp" >
+            </div>
+           </div>
+            
+           <div  class="btn col-md-12">
+            <button type="submit" class="btn btn-success" id="botonAgr"> Agregar Empresa</button>
+        </div>
+            
+        </form>
+
+       
+
+    </div>
+
+    <div class="itemH2">
+        <h2>___</h2>
+    </div>
+    <script src="/js/nuevaEmpresa.js" type="module"></script>
+</body>
+</html>

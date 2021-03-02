@@ -1,0 +1,1819 @@
+{
+  "alumnos": [
+    {
+      "cursoAl": "GSS",
+      "nombreAl": "MARIANO",
+      "localidadAl": "CAMPOS",
+      "emailAl": "mira@gmail.com",
+      "movilAl": "654321",
+      "empresaAl": "LUCIONET",
+      "contactoEmp": "ESPINOSA",
+      "practicas": "LUCERO",
+      "id": 1
+    },
+    {
+      "cursoAl": "GSI",
+      "nombreAl": "JULIANA",
+      "localidadAl": "MANACOR",
+      "emailAl": "DSLKJ@SD.COM",
+      "movilAl": "654321",
+      "empresaAl": "ILUTEC",
+      "contactoEmp": "susanita",
+      "practicas": "IMAGEN",
+      "id": 2
+    },
+    {
+      "cursoAl": "GSS",
+      "nombreAl": "PERE",
+      "localidadAl": "MANACOR",
+      "emailAl": "mira@gmail.com",
+      "movilAl": "654321",
+      "empresaAl": "Sonet",
+      "contactoEmp": "MIGUEL",
+      "practicas": "ILUMINACION",
+      "id": 3
+    },
+    {
+      "cursoAl": "GSS",
+      "nombreAl": "IVAN AGUADO",
+      "localidadAl": "PAGUERA",
+      "emailAl": "D.E@G.COM",
+      "movilAl": "111111",
+      "empresaAl": "ONDAS LIBRES",
+      "contactoEmp": "PAQUITO",
+      "practicas": "SONIDO FICCION",
+      "id": 4
+    },
+    {
+      "cursoAl": "GSS",
+      "nombreAl": "PERE BATLE",
+      "localidadAl": "PALMA",
+      "emailAl": "pere@cef.com",
+      "movilAl": "656896523",
+      "empresaAl": "CADENA SER",
+      "contactoEmp": "RAÚL JIMENEZ",
+      "practicas": "SONIDO RADIO",
+      "id": 5
+    },
+    {
+      "cursoAl": "GSR",
+      "nombreAl": "LOURDES",
+      "localidadAl": "CAMPOS",
+      "emailAl": "mira@gmail.com",
+      "movilAl": "654321",
+      "empresaAl": "Sonet",
+      "contactoEmp": "MIGUEL",
+      "practicas": "SONIDO",
+      "id": 6
+    },
+    {
+      "cursoAl": "GSS",
+      "nombreAl": "XISCO MERCADAL",
+      "localidadAl": "MARRATXI",
+      "emailAl": "XISCO@XISCO.COM",
+      "movilAl": "999000333",
+      "empresaAl": "ON-LINE",
+      "contactoEmp": "TEO ON-LINE",
+      "practicas": "SONIDO",
+      "id": 7
+    },
+    {
+      "cursoAl": "",
+      "nombreAl": "",
+      "localidadAl": "",
+      "emailAl": "",
+      "movilAl": "",
+      "empresaAl": "",
+      "contactoEmp": "",
+      "practicas": "",
+      "id": 8
+    }
+  ],
+  "empresas": [
+    {
+      "GM": "0",
+      "GSR": "0",
+      "GSI": "",
+      "GSS": "",
+      "GSA": "",
+      "GSP": "",
+      "EMPRESA": "ACOPUO",
+      "CONTACTO": "Juanjo Buendía",
+      "EMAIL": "juanjo@acopuo.com",
+      "TELEFONO": "616578398",
+      "PRACTICAS": "Editor y Montador, Guion, SonidoDirecto",
+      "id": 1
+    },
+    {
+      "GM": "1",
+      "GSR": "",
+      "GSI": "",
+      "GSS": "1",
+      "GSA": "",
+      "GSP": "",
+      "EMPRESA": "AICO",
+      "CONTACTO": "",
+      "EMAIL": "info@aico.es",
+      "TELEFONO": "609741229",
+      "PRACTICAS": [
+        "SonidoDirecto",
+        "Camara"
+      ],
+      "id": 2
+    },
+    {
+      "GM": "",
+      "GSR": "1",
+      "GSI": "",
+      "GSS": "",
+      "GSA": "",
+      "GSP": "",
+      "EMPRESA": "AL AIRE FILMS",
+      "CONTACTO": "LUÍS RIZO",
+      "EMAIL": "luis@alairefilms.com",
+      "TELEFONO": "693 020 784",
+      "PRACTICAS": [
+        "Montador",
+        " Guion",
+        " Sonido"
+      ],
+      "id": 3
+    },
+    {
+      "GM": "",
+      "GSR": "0",
+      "GSI": "",
+      "GSS": "",
+      "GSA": "",
+      "GSP": "",
+      "EMPRESA": "AMADIP ESMENT",
+      "CONTACTO": "Carles Bover",
+      "EMAIL": "cbover@amadipesment.org",
+      "TELEFONO": "618423660",
+      "PRACTICAS": "MontajeVideo, Sonido",
+      "id": 4
+    },
+    {
+      "GM": "",
+      "GSR": "",
+      "GSI": "",
+      "GSS": "X",
+      "GSA": "",
+      "GSP": "",
+      "EMPRESA": "AUDITORIUM",
+      "CONTACTO": "J Ferragut",
+      "EMAIL": "‎jferragut@auditoriumpalma.com",
+      "TELEFONO": "971 73 04 23",
+      "PRACTICAS": "Sonido Imagen",
+      "id": 5
+    },
+    {
+      "GM": "",
+      "GSR": "X",
+      "GSI": "",
+      "GSS": "",
+      "GSA": "",
+      "GSP": "",
+      "EMPRESA": "BABIEKA FILMS",
+      "CONTACTO": "Ernest Riera",
+      "EMAIL": "ernestriera77@gmail.com",
+      "TELEFONO": "658378379",
+      "PRACTICAS": "Sonido Imagen, Video, Guion",
+      "id": 6
+    },
+    {
+      "GM": "",
+      "GSR": "X",
+      "GSI": "",
+      "GSS": "",
+      "GSA": "",
+      "GSP": "",
+      "EMPRESA": "BORBALAN",
+      "TELEFONO": "971729457",
+      "EMAIL": "bbarta@botbalan.com/fcamps@borbalan.com",
+      "CONTACTO": "Brenda Marta/ Fernando/ Xesca",
+      "OBSERVACIONES": "",
+      "PRACTICAS": [
+        "SonidoDirecto",
+        "Video"
+      ],
+      "FIELD13": "",
+      "FIELD14": "",
+      "id": 7
+    },
+    {
+      "GM": "",
+      "GSR": "",
+      "GSI": "",
+      "GSS": "X",
+      "GSA": "",
+      "GSP": "",
+      "EMPRESA": "CADENA SER",
+      "CONTACTO": "Raúl Jiménez",
+      "EMAIL": "RJimenezM@prisaradio.com",
+      "TELEFONO": "607822510",
+      "PRACTICAS": "Radio",
+      "id": 8
+    },
+    {
+      "GM": "",
+      "GSR": "",
+      "GSI": "",
+      "GSS": "X",
+      "GSA": "",
+      "GSP": "",
+      "EMPRESA": "CALMA STUDIO",
+      "TELEFONO": "971 847 254",
+      "EMAIL": "umbria@calmaestudis.com",
+      "CONTACTO": "Josep Umbria",
+      "OBSERVACIONES": "",
+      "PRACTICAS": [
+        "SonidoDirecto",
+        "Video"
+      ],
+      "FIELD13": "",
+      "FIELD14": "",
+      "id": 9
+    },
+    {
+      "GM": "",
+      "GSR": "",
+      "GSI": "",
+      "GSS": "",
+      "GSA": "X",
+      "GSP": "",
+      "EMPRESA": "CAMP APRENENTATGE ORIENT",
+      "TELEFONO": "971427212/619199111",
+      "EMAIL": "cabinifaldo1@gmail.com/ caorient@educaib.eu",
+      "CONTACTO": "Toni Rosselló",
+      "OBSERVACIONES": "",
+      "PRACTICAS": [
+        "SonidoDirecto",
+        "Video"
+      ],
+      "FIELD13": "",
+      "FIELD14": "",
+      "id": 10
+    },
+    {
+      "GM": "",
+      "GSR": "",
+      "GSI": "",
+      "GSS": "X",
+      "GSA": "",
+      "GSP": "",
+      "EMPRESA": "CAN PUC",
+      "TELEFONO": "607621782",
+      "EMAIL": "canpuc@gmail.com",
+      "CONTACTO": "Enric Hernaiz Trilla",
+      "OBSERVACIONES": "",
+      "PRACTICAS": [
+        "SonidoDirecto",
+        "Video"
+      ],
+      "FIELD13": "",
+      "FIELD14": "",
+      "id": 11
+    },
+    {
+      "GM": "2",
+      "GSR": "1",
+      "GSI": "",
+      "GSS": "1",
+      "GSA": "",
+      "GSP": "",
+      "EMPRESA": "CANAL 4 TV",
+      "CONTACTO": "Baltasar Crespí ",
+      "EMAIL": "bcrespi@grup4.com",
+      "PRACTICAS": [
+        "SonidoDirecto",
+        "Video"
+      ],
+      "TELEFONO": "609612394",
+      "id": 12
+    },
+    {
+      "GM": "X",
+      "GSR": "",
+      "GSI": "2",
+      "GSS": "",
+      "GSA": "",
+      "GSP": "",
+      "EMPRESA": "CARMINA SHOEMAKER",
+      "TELEFONO": "971880938",
+      "EMAIL": "mmartorell@carminashoemaker.com",
+      "CONTACTO": "Miquel Martorell",
+      "OBSERVACIONES": "",
+      "PRACTICAS": [
+        "SonidoDirecto",
+        "Video"
+      ],
+      "FIELD13": "",
+      "FIELD14": "",
+      "id": 13
+    },
+    {
+      "GM": "X",
+      "GSR": "",
+      "GSI": "",
+      "GSS": "",
+      "GSA": "",
+      "GSP": "",
+      "EMPRESA": "CASA PLANAS",
+      "TELEFONO": "660239021",
+      "EMAIL": "centreculturalcasaplanas@gmail.com/maritoverdaguer@gmail.com",
+      "CONTACTO": "MARITO/Alelí Mirelman",
+      "OBSERVACIONES": "",
+      "PRACTICAS": [
+        "SonidoDirecto",
+        "Video"
+      ],
+      "FIELD13": "",
+      "FIELD14": "",
+      "id": 14
+    },
+    {
+      "GM": "",
+      "GSR": "X",
+      "GSI": "",
+      "GSS": "",
+      "GSA": "",
+      "GSP": "",
+      "EMPRESA": "CASTELAO PRODUCTIONS SA",
+      "TELEFONO": "617013979",
+      "EMAIL": "barbara@laperiferica.com",
+      "CONTACTO": "BÀRBARA FERRER",
+      "OBSERVACIONES": "",
+      "PRACTICAS": [
+        "SonidoDirecto",
+        "Video"
+      ],
+      "FIELD13": "",
+      "FIELD14": "",
+      "id": 15
+    },
+    {
+      "GM": "",
+      "GSR": "1",
+      "GSI": "",
+      "GSS": "",
+      "GSA": "",
+      "GSP": "",
+      "EMPRESA": "CD ATLÉTICO BALEARES",
+      "CONTACTO": "CARLOS HERNÁNDEZ",
+      "EMAIL": "comunicacion@atleticobaleares.com",
+      "TELEFONO": "680646438",
+      "PRACTICAS": [
+        "SonidoDirecto",
+        "Video",
+        "Foto Ficción"
+      ],
+      "id": 16
+    },
+    {
+      "GM": "",
+      "GSR": "",
+      "GSI": "",
+      "GSS": "X",
+      "GSA": "",
+      "GSP": "",
+      "EMPRESA": "CEF AUDIOVISUAL",
+      "CONTACTO": "ALINE",
+      "EMAIL": "aline@cefmallorca.com",
+      "PRACTICAS": [
+        "SonidoDirecto",
+        "Video"
+      ],
+      "TELEFONO": "971718063",
+      "id": 17
+    },
+    {
+      "GM": "",
+      "GSR": "X",
+      "GSI": "",
+      "GSS": "",
+      "GSA": "",
+      "GSP": "",
+      "EMPRESA": "CINÉTICA",
+      "TELEFONO": "686650829",
+      "EMAIL": "",
+      "CONTACTO": "Luís Hortas",
+      "OBSERVACIONES": "",
+      "PRACTICAS": [
+        "SonidoDirecto",
+        "Video"
+      ],
+      "FIELD13": "",
+      "FIELD14": "",
+      "id": 18
+    },
+    {
+      "GM": " ",
+      "GSR": "",
+      "GSI": "",
+      "GSS": "1",
+      "GSA": "",
+      "GSP": "",
+      "EMPRESA": "COPE",
+      "TELEFONO": "",
+      "EMAIL": "",
+      "CONTACTO": "",
+      "OBSERVACIONES": "19/02/21: 1 alumnos ",
+      "PRACTICAS": [
+        "SonidoDirecto",
+        "Video"
+      ],
+      "FIELD13": "",
+      "FIELD14": "",
+      "id": 19
+    },
+    {
+      "GM": "",
+      "GSR": "X",
+      "GSI": "",
+      "GSS": "",
+      "GSA": "",
+      "GSP": "",
+      "EMPRESA": "DI7 CONSULTORS",
+      "TELEFONO": "",
+      "EMAIL": "info@dissetconsultors.com",
+      "CONTACTO": "",
+      "OBSERVACIONES": "BINISSALEM",
+      "PRACTICAS": [
+        "SonidoDirecto",
+        "Video"
+      ],
+      "FIELD13": "",
+      "FIELD14": "",
+      "id": 20
+    },
+    {
+      "GM": "2",
+      "GSR": "",
+      "GSI": "X",
+      "GSS": "",
+      "GSA": "",
+      "GSP": "",
+      "EMPRESA": "DIARIO DE MALLORCA",
+      "TELEFONO": " ",
+      "EMAIL": " ",
+      "CONTACTO": "Marisa Goñi",
+      "OBSERVACIONES": "19/02/21: 2 alumnos: fotógrafo/audiovisual JUNIO/JULIO",
+      "PRACTICAS": [
+        "SonidoDirecto",
+        "Video"
+      ],
+      "FIELD13": "",
+      "FIELD14": "",
+      "id": 21
+    },
+    {
+      "GM": "X",
+      "GSR": "",
+      "GSI": "",
+      "GSS": "",
+      "GSA": "",
+      "GSP": "",
+      "EMPRESA": "DJ GROUP",
+      "TELEFONO": "626553063",
+      "EMAIL": "tonicontreras@lomusic.es",
+      "CONTACTO": "Toni Contreras",
+      "OBSERVACIONES": "INCA",
+      "PRACTICAS": [
+        "SonidoDirecto",
+        "Video"
+      ],
+      "FIELD13": "",
+      "FIELD14": "",
+      "id": 22
+    },
+    {
+      "GM": "X",
+      "GSR": "",
+      "GSI": "",
+      "GSS": "",
+      "GSA": "",
+      "GSP": "",
+      "EMPRESA": "EMPRESA ANDREA",
+      "TELEFONO": " ",
+      "EMAIL": "",
+      "CONTACTO": "",
+      "OBSERVACIONES": "",
+      "PRACTICAS": [
+        "SonidoDirecto",
+        "Video"
+      ],
+      "FIELD13": "",
+      "FIELD14": "",
+      "id": 23
+    },
+    {
+      "GM": "?",
+      "GSR": "X",
+      "GSI": "",
+      "GSS": "",
+      "GSA": "",
+      "GSP": "",
+      "EMPRESA": "ENCORA",
+      "TELEFONO": "",
+      "EMAIL": "",
+      "CONTACTO": " ",
+      "OBSERVACIONES": "SOLLER",
+      "PRACTICAS": [
+        "SonidoDirecto",
+        "Video"
+      ],
+      "FIELD13": "",
+      "FIELD14": "",
+      "id": 24
+    },
+    {
+      "GM": "X",
+      "GSR": "",
+      "GSI": "",
+      "GSS": "",
+      "GSA": "",
+      "GSP": "",
+      "EMPRESA": "ES BALUARD",
+      "TELEFONO": "971908200",
+      "EMAIL": "",
+      "CONTACTO": "Eva Cifre",
+      "OBSERVACIONES": "19/02/21: Nos lo va a confirmar",
+      "PRACTICAS": [
+        "SonidoDirecto",
+        "Video"
+      ],
+      "FIELD13": "",
+      "FIELD14": "",
+      "id": 25
+    },
+    {
+      "GM": "",
+      "GSR": "X",
+      "GSI": "",
+      "GSS": "",
+      "GSA": "",
+      "GSP": "",
+      "EMPRESA": "ESPAI TEMPS",
+      "TELEFONO": "",
+      "EMAIL": "lluis@espaitemps.com",
+      "CONTACTO": "Lluís Prieto",
+      "OBSERVACIONES": "",
+      "PRACTICAS": [
+        "SonidoDirecto",
+        "Video"
+      ],
+      "FIELD13": "",
+      "FIELD14": "",
+      "id": 26
+    },
+    {
+      "GM": "",
+      "GSR": "X",
+      "GSI": "",
+      "GSS": "",
+      "GSA": "",
+      "GSP": "",
+      "EMPRESA": "EVOLUTION FILM FESTIVAL",
+      "TELEFONO": "649480290",
+      "EMAIL": "evolutionfilmfestival@gmail.com",
+      "CONTACTO": "PAU VICH",
+      "OBSERVACIONES": "",
+      "PRACTICAS": [
+        "SonidoDirecto",
+        "Video"
+      ],
+      "FIELD13": "",
+      "FIELD14": "",
+      "id": 27
+    },
+    {
+      "GM": "",
+      "GSR": "X",
+      "GSI": "",
+      "GSS": "",
+      "GSA": "",
+      "GSP": "",
+      "EMPRESA": "FAR VISUALS",
+      "TELEFONO": "699604005",
+      "EMAIL": "joan@farvisuals.com",
+      "CONTACTO": "Joan Bover",
+      "OBSERVACIONES": "",
+      "PRACTICAS": [
+        "SonidoDirecto",
+        "Video"
+      ],
+      "FIELD13": "",
+      "FIELD14": "",
+      "id": 28
+    },
+    {
+      "GM": "X",
+      "GSR": "",
+      "GSI": "",
+      "GSS": "",
+      "GSA": "",
+      "GSP": "",
+      "EMPRESA": "FIBWI",
+      "TELEFONO": "971 940 971",
+      "EMAIL": "",
+      "CONTACTO": "",
+      "OBSERVACIONES": "INCA",
+      "PRACTICAS": [
+        "SonidoDirecto",
+        "Video"
+      ],
+      "FIELD13": "",
+      "FIELD14": "",
+      "id": 29
+    },
+    {
+      "GM": "X",
+      "GSR": "",
+      "GSI": "",
+      "GSS": "",
+      "GSA": "",
+      "GSP": "",
+      "EMPRESA": "FOTO ESTUDIO  MOLINS",
+      "TELEFONO": "607860731/971288051",
+      "EMAIL": "fotomolins@fotomolins.com",
+      "CONTACTO": "Guillermo Ginard",
+      "OBSERVACIONES": "",
+      "PRACTICAS": [
+        "SonidoDirecto",
+        "Video"
+      ],
+      "FIELD13": "",
+      "FIELD14": "",
+      "id": 30
+    },
+    {
+      "GM": "",
+      "GSR": "",
+      "GSI": "",
+      "GSS": "",
+      "GSA": "",
+      "GSP": "",
+      "EMPRESA": "IB3 RADIO",
+      "TELEFONO": "",
+      "EMAIL": "",
+      "CONTACTO": "",
+      "OBSERVACIONES": "",
+      "PRACTICAS": [
+        "SonidoDirecto",
+        "Video"
+      ],
+      "FIELD13": "",
+      "FIELD14": "",
+      "id": 31
+    },
+    {
+      "GM": "X",
+      "GSR": "?",
+      "GSI": "",
+      "GSS": "X",
+      "GSA": "",
+      "GSP": "",
+      "EMPRESA": "IBEROSTAR",
+      "TELEFONO": "686 233 801",
+      "EMAIL": "alberto.alba@iberostar.com",
+      "CONTACTO": "Alberto Alba",
+      "OBSERVACIONES": "19/02/21: Mandado EMAIL",
+      "PRACTICAS": [
+        "SonidoDirecto",
+        "Video"
+      ],
+      "FIELD13": "",
+      "FIELD14": "",
+      "id": 32
+    },
+    {
+      "GM": "X",
+      "GSR": "",
+      "GSI": "",
+      "GSS": "",
+      "GSA": "",
+      "GSP": "",
+      "EMPRESA": "INSELRADIO",
+      "TELEFONO": "971 725 941",
+      "EMAIL": "trapp@inselradio.com",
+      "CONTACTO": "CHRISTINA TRAPP",
+      "OBSERVACIONES": "",
+      "PRACTICAS": [
+        "SonidoDirecto",
+        "Video"
+      ],
+      "FIELD13": "",
+      "FIELD14": "",
+      "id": 33
+    },
+    {
+      "GM": "?",
+      "GSR": "?",
+      "GSI": "",
+      "GSS": "",
+      "GSA": "",
+      "GSP": "",
+      "EMPRESA": "ISLANET",
+      "TELEFONO": "619176015",
+      "EMAIL": "digital@islanetworks.com",
+      "CONTACTO": "Santiago Tonelli",
+      "OBSERVACIONES": "",
+      "PRACTICAS": [
+        "SonidoDirecto",
+        "Video"
+      ],
+      "FIELD13": "",
+      "FIELD14": "",
+      "id": 34
+    },
+    {
+      "GM": "X",
+      "GSR": "X",
+      "GSI": "X",
+      "GSS": "X",
+      "GSA": "X",
+      "GSP": "X",
+      "EMPRESA": "KAMALYON",
+      "CONSTACTO": "Alberto Collazo",
+      "PRACTICAS": [
+        "SonidoDirecto",
+        "Video"
+      ],
+      "EMAIL": "albertocollazo@kamalyon.com",
+      "TELEFONO": "654 055 015",
+      "id": 35
+    },
+    {
+      "GM": "X",
+      "GSR": "",
+      "GSI": "",
+      "GSS": "",
+      "GSA": "",
+      "GSP": "",
+      "EMPRESA": "KINACU SYSTEMS",
+      "TELEFONO": "686339982",
+      "EMAIL": "senyconsulting@gmail.com",
+      "CONTACTO": "",
+      "OBSERVACIONES": "",
+      "PRACTICAS": [
+        "SonidoDirecto",
+        "Video"
+      ],
+      "FIELD13": "",
+      "FIELD14": "",
+      "id": 36
+    },
+    {
+      "GM": "?",
+      "GSR": "?",
+      "GSI": "",
+      "GSS": "",
+      "GSA": "",
+      "GSP": "",
+      "EMPRESA": "LA CATALINA",
+      "TELEFONO": "",
+      "EMAIL": "info@lacatalina.net",
+      "CONTACTO": "Manuel Bauzá",
+      "OBSERVACIONES": "",
+      "PRACTICAS": [
+        "SonidoDirecto",
+        "Video"
+      ],
+      "FIELD13": "",
+      "FIELD14": "",
+      "id": 37
+    },
+    {
+      "GM": "X",
+      "GSR": "",
+      "GSI": "",
+      "GSS": "",
+      "GSA": "",
+      "GSP": "",
+      "EMPRESA": "LAURA JAUME",
+      "TELEFONO": "689242223/971603089",
+      "EMAIL": "laurajaumefotografia@gmail.com",
+      "CONTACTO": "Laura Jaume",
+      "OBSERVACIONES": "",
+      "PRACTICAS": [
+        "SonidoDirecto",
+        "Video"
+      ],
+      "FIELD13": "",
+      "FIELD14": "",
+      "id": 38
+    },
+    {
+      "GM": "",
+      "GSR": "X",
+      "GSI": "",
+      "GSS": "",
+      "GSA": "",
+      "GSP": "",
+      "EMPRESA": "LIQUID MEDIA, SL ",
+      "TELEFONO": "",
+      "EMAIL": "",
+      "CONTACTO": "",
+      "OBSERVACIONES": "",
+      "PRACTICAS": [
+        "SonidoDirecto",
+        "Video"
+      ],
+      "FIELD13": "",
+      "FIELD14": "",
+      "id": 39
+    },
+    {
+      "GM": "",
+      "GSR": "",
+      "GSI": "",
+      "GSS": "",
+      "GSA": "X",
+      "GSP": "",
+      "EMPRESA": "LOOPING",
+      "TELEFONO": "676493511",
+      "EMAIL": "ohernandez@looping.es",
+      "CONTACTO": "Oliver Hernández",
+      "OBSERVACIONES": "",
+      "PRACTICAS": [
+        "SonidoDirecto",
+        "Video"
+      ],
+      "FIELD13": "",
+      "FIELD14": "",
+      "id": 40
+    },
+    {
+      "GM": "",
+      "GSR": "X",
+      "GSI": "",
+      "GSS": "X",
+      "GSA": "",
+      "GSP": "",
+      "EMPRESA": "MALLORCA VÍDEO",
+      "TELEFONO": "680376010",
+      "EMAIL": "info@mallorcavideo.es",
+      "CONTACTO": "David",
+      "OBSERVACIONES": "",
+      "PRACTICAS": [
+        "SonidoDirecto",
+        "Video"
+      ],
+      "FIELD13": "",
+      "FIELD14": "",
+      "id": 41
+    },
+    {
+      "GM": "",
+      "GSR": "X",
+      "GSI": "",
+      "GSS": "",
+      "GSA": "",
+      "GSP": "",
+      "EMPRESA": "MALLORCADOCS",
+      "TELEFONO": "695533660",
+      "EMAIL": "mallorcadocs@gmail.com",
+      "CONTACTO": "ALEJANDRO DIOSCÓRIDES",
+      "OBSERVACIONES": "",
+      "PRACTICAS": [
+        "SonidoDirecto",
+        "Video"
+      ],
+      "FIELD13": "",
+      "FIELD14": "",
+      "id": 42
+    },
+    {
+      "GM": "",
+      "GSR": "",
+      "GSI": "",
+      "GSS": "",
+      "GSA": "X",
+      "GSP": "",
+      "EMPRESA": "MANSION GAMES",
+      "TELEFONO": "636429628",
+      "EMAIL": " mgallardo@mansion-games.com",
+      "CONTACTO": "Helena Soriano",
+      "OBSERVACIONES": "",
+      "PRACTICAS": [
+        "SonidoDirecto",
+        "Video"
+      ],
+      "FIELD13": "",
+      "FIELD14": "",
+      "id": 43
+    },
+    {
+      "GM": "",
+      "GSR": "",
+      "GSI": "",
+      "GSS": "X",
+      "GSA": "",
+      "GSP": "",
+      "EMPRESA": "MATCH SO",
+      "TELEFONO": "658502865",
+      "EMAIL": "matchband@yahoo.es",
+      "CONTACTO": "Matías Garau Parets",
+      "OBSERVACIONES": "",
+      "PRACTICAS": [
+        "SonidoDirecto",
+        "Video"
+      ],
+      "FIELD13": "",
+      "FIELD14": "",
+      "id": 44
+    },
+    {
+      "GM": "X",
+      "GSR": "",
+      "GSI": "",
+      "GSS": "",
+      "GSA": "",
+      "GSP": "",
+      "EMPRESA": "MATEU BENNASAR",
+      "TELEFONO": "",
+      "EMAIL": "",
+      "CONTACTO": "",
+      "OBSERVACIONES": "",
+      "PRACTICAS": [
+        "SonidoDirecto",
+        "Video"
+      ],
+      "FIELD13": "",
+      "FIELD14": "",
+      "id": 45
+    },
+    {
+      "GM": "",
+      "GSR": "X",
+      "GSI": "",
+      "GSS": "",
+      "GSA": "",
+      "GSP": "",
+      "EMPRESA": "MEDIAPRO",
+      "TELEFONO": "667110344",
+      "EMAIL": "formacion@mediapro.es",
+      "CONTACTO": "",
+      "OBSERVACIONES": "",
+      "PRACTICAS": [
+        "SonidoDirecto",
+        "Video"
+      ],
+      "FIELD13": "",
+      "FIELD14": "",
+      "id": 46
+    },
+    {
+      "GM": "",
+      "GSR": "X",
+      "GSI": "",
+      "GSS": "",
+      "GSA": "",
+      "GSP": "",
+      "EMPRESA": "MEDIÓPOLIS",
+      "TELEFONO": "636950974",
+      "EMAIL": "patrick.mediopolis@gmail.com",
+      "CONTACTO": "Patrick",
+      "OBSERVACIONES": "",
+      "PRACTICAS": [
+        "SonidoDirecto",
+        "Video"
+      ],
+      "FIELD13": "",
+      "FIELD14": "",
+      "id": 47
+    },
+    {
+      "GM": "",
+      "GSR": "X",
+      "GSI": "",
+      "GSS": "",
+      "GSA": "",
+      "GSP": "",
+      "EMPRESA": "MN STUDIOS",
+      "TELEFONO": "620246688",
+      "EMAIL": "daniela@mnstudios.es",
+      "CONTACTO": "Daniela",
+      "OBSERVACIONES": "",
+      "PRACTICAS": [
+        "SonidoDirecto",
+        "Video"
+      ],
+      "FIELD13": "",
+      "FIELD14": "",
+      "id": 48
+    },
+    {
+      "GM": "",
+      "GSR": "X",
+      "GSI": "",
+      "GSS": "",
+      "GSA": "",
+      "GSP": "",
+      "EMPRESA": "MOSAIC",
+      "TELEFONO": "649803581",
+      "EMAIL": "marta@mosaicprod.com",
+      "CONTACTO": "MARTA CASTELLS",
+      "OBSERVACIONES": "",
+      "PRACTICAS": [
+        "SonidoDirecto",
+        "Video"
+      ],
+      "FIELD13": "",
+      "FIELD14": "",
+      "id": 49
+    },
+    {
+      "GM": "",
+      "GSR": "X",
+      "GSI": "",
+      "GSS": "",
+      "GSA": "",
+      "GSP": "",
+      "EMPRESA": "MOM WORKS",
+      "TELEFONO": "656626981",
+      "EMAIL": "MUMWORKS.ES",
+      "CONTACTO": "NURIA ABAD",
+      "OBSERVACIONES": "",
+      "PRACTICAS": [
+        "SonidoDirecto",
+        "Video"
+      ],
+      "FIELD13": "",
+      "FIELD14": "",
+      "id": 50
+    },
+    {
+      "GM": "",
+      "GSR": "X",
+      "GSI": "",
+      "GSS": "X",
+      "GSA": "",
+      "GSP": "",
+      "EMPRESA": "NOVA TV",
+      "TELEFONO": "Manolo 616414810",
+      "EMAIL": "mcoeto@novatelevisio.com/direccio@novatelevisio.com",
+      "CONTACTO": "Mercedes Rubio (RRHH)/Manolo Coeto (Jefe técnico)",
+      "OBSERVACIONES": "",
+      "PRACTICAS": [
+        "SonidoDirecto",
+        "Video"
+      ],
+      "FIELD13": "",
+      "FIELD14": "",
+      "id": 51
+    },
+    {
+      "GM": "",
+      "GSR": "X",
+      "GSI": "",
+      "GSS": "",
+      "GSA": "",
+      "GSP": "X",
+      "EMPRESA": "OFFLINE PRODUCCIONES",
+      "TELEFONO": "658633924",
+      "EMAIL": "dani@offlineproducciones.es",
+      "CONTACTO": "Dani Cuesta",
+      "OBSERVACIONES": "",
+      "PRACTICAS": [
+        "SonidoDirecto",
+        "Video"
+      ],
+      "FIELD13": "",
+      "FIELD14": "",
+      "id": 52
+    },
+    {
+      "GM": "X",
+      "GSR": "",
+      "GSI": "",
+      "GSS": "",
+      "GSA": "",
+      "GSP": "",
+      "EMPRESA": "ONA MEDITERRÀNIA",
+      "TELEFONO": "",
+      "EMAIL": "",
+      "CONTACTO": "info@onamediterrania.cat",
+      "OBSERVACIONES": "",
+      "PRACTICAS": [
+        "SonidoDirecto",
+        "Video"
+      ],
+      "FIELD13": "",
+      "FIELD14": "",
+      "id": 53
+    },
+    {
+      "GM": "",
+      "GSR": "",
+      "GSI": "",
+      "GSS": "",
+      "GSA": "",
+      "GSP": "",
+      "EMPRESA": "ONDA CERO",
+      "TELEFONO": "971777000",
+      "EMAIL": "Juan Carlos Enríquez",
+      "CONTACTO": "jenriquez@ondacero.es",
+      "OBSERVACIONES": "informativos@ondacero.es",
+      "PRACTICAS": [
+        "SonidoDirecto",
+        "Video"
+      ],
+      "FIELD13": "",
+      "FIELD14": "",
+      "id": 54
+    },
+    {
+      "GM": "",
+      "GSR": "",
+      "GSI": "",
+      "GSS": "X",
+      "GSA": "",
+      "GSP": "",
+      "EMPRESA": "ONLINE",
+      "TELEFONO": "629654834",
+      "EMAIL": "info@onlinesonoritzacions.com",
+      "CONTACTO": "Teo Adrover",
+      "OBSERVACIONES": "",
+      "PRACTICAS": [
+        "SonidoDirecto",
+        "Video"
+      ],
+      "FIELD13": "",
+      "FIELD14": "",
+      "id": 55
+    },
+    {
+      "GM": "",
+      "GSR": "1",
+      "GSI": "",
+      "GSS": "",
+      "GSA": "",
+      "GSP": "",
+      "EMPRESA": "PALEÂRTICA FILMS",
+      "TELEFONO": "663080322",
+      "EMAIL": "toniescandell@gmail.com/marinapaleartica@gmail.com",
+      "CONTACTO": "MARINA SEGUÍ/TONI ESCANDELL",
+      "OBSERVACIONES": "",
+      "PRACTICAS": [
+        "SonidoDirecto",
+        "Video"
+      ],
+      "FIELD13": "",
+      "FIELD14": "",
+      "id": 56
+    },
+    {
+      "GM": "",
+      "GSR": "X",
+      "GSI": "",
+      "GSS": "X",
+      "GSA": "",
+      "GSP": "",
+      "EMPRESA": "PALMA MUSIC STUDIO",
+      "TELEFONO": "654715373",
+      "EMAIL": "mail@palmamusicstudios.com",
+      "CONTACTO": "Fredrick Thomander",
+      "OBSERVACIONES": "",
+      "PRACTICAS": [
+        "SonidoDirecto",
+        "Video"
+      ],
+      "FIELD13": "",
+      "FIELD14": "",
+      "id": 57
+    },
+    {
+      "GM": "",
+      "GSR": "X",
+      "GSI": "",
+      "GSS": "",
+      "GSA": "",
+      "GSP": "",
+      "EMPRESA": "PALMA PICTURES",
+      "TELEFONO": "",
+      "EMAIL": "",
+      "CONTACTO": "",
+      "OBSERVACIONES": "",
+      "PRACTICAS": [
+        "SonidoDirecto",
+        "Video"
+      ],
+      "FIELD13": "",
+      "FIELD14": "",
+      "id": 58
+    },
+    {
+      "GM": "",
+      "GSR": "",
+      "GSI": "",
+      "GSS": "",
+      "GSA": "2",
+      "GSP": "",
+      "EMPRESA": "PEPMI GARAU",
+      "TELEFONO": "680 74 63 68",
+      "EMAIL": "info@pepmi.es",
+      "CONTACTO": "Pepmi Garau",
+      "OBSERVACIONES": "",
+      "PRACTICAS": [
+        "SonidoDirecto",
+        "Video"
+      ],
+      "FIELD13": "",
+      "FIELD14": "",
+      "id": 59
+    },
+    {
+      "GM": "",
+      "GSR": "X",
+      "GSI": "",
+      "GSS": "",
+      "GSA": "",
+      "GSP": "X",
+      "EMPRESA": "PERIFÉRICA",
+      "TELEFONO": "",
+      "EMAIL": "",
+      "CONTACTO": "",
+      "OBSERVACIONES": "",
+      "PRACTICAS": [
+        "SonidoDirecto",
+        "Video"
+      ],
+      "FIELD13": "",
+      "FIELD14": "",
+      "id": 60
+    },
+    {
+      "GM": "",
+      "GSR": "",
+      "GSI": "",
+      "GSS": "",
+      "GSA": "X",
+      "GSP": "",
+      "EMPRESA": "PLAY SPACE",
+      "TELEFONO": "",
+      "EMAIL": "",
+      "CONTACTO": "",
+      "OBSERVACIONES": "",
+      "PRACTICAS": [
+        "SonidoDirecto",
+        "Video"
+      ],
+      "FIELD13": "",
+      "FIELD14": "",
+      "id": 61
+    },
+    {
+      "GM": "X",
+      "GSR": "",
+      "GSI": "",
+      "GSS": "X",
+      "GSA": "",
+      "GSP": "",
+      "EMPRESA": "RADIO BALEAR ",
+      "TELEFONO": "971421121",
+      "EMAIL": "fruiz@radiobalear.com",
+      "CONTACTO": "Fernando Ruiz",
+      "OBSERVACIONES": "",
+      "PRACTICAS": [
+        "SonidoDirecto",
+        "Video"
+      ],
+      "FIELD13": "",
+      "FIELD14": "",
+      "id": 62
+    },
+    {
+      "GM": "X",
+      "GSR": "",
+      "GSI": "",
+      "GSS": "",
+      "GSA": "",
+      "GSP": "",
+      "EMPRESA": "RADIO CALVIÀ",
+      "TELEFONO": "",
+      "EMAIL": "Jaime Mora",
+      "CONTACTO": "659477715",
+      "OBSERVACIONES": "",
+      "PRACTICAS": [
+        "SonidoDirecto",
+        "Video"
+      ],
+      "FIELD13": "",
+      "FIELD14": "",
+      "id": 63
+    },
+    {
+      "GM": "",
+      "GSR": "",
+      "GSI": "",
+      "GSS": "X",
+      "GSA": "",
+      "GSP": "",
+      "EMPRESA": "RADIO RNE",
+      "TELEFONO": "971211335 (11335)",
+      "EMAIL": "jefemedios.baleares@rtve.es",
+      "CONTACTO": "BERNARDO J. CASTELL VIVES",
+      "OBSERVACIONES": "",
+      "PRACTICAS": [
+        "SonidoDirecto",
+        "Video"
+      ],
+      "FIELD13": "",
+      "FIELD14": "",
+      "id": 64
+    },
+    {
+      "GM": "",
+      "GSR": "",
+      "GSI": "",
+      "GSS": "X",
+      "GSA": "",
+      "GSP": "",
+      "EMPRESA": "REVI",
+      "TELEFONO": "669799599",
+      "EMAIL": "revifondo@hotmail.com",
+      "CONTACTO": "Miquel Rechac Garau",
+      "OBSERVACIONES": "",
+      "PRACTICAS": [
+        "SonidoDirecto",
+        "Video"
+      ],
+      "FIELD13": "",
+      "FIELD14": "",
+      "id": 65
+    },
+    {
+      "GM": "",
+      "GSR": "",
+      "GSI": "",
+      "GSS": "",
+      "GSA": "",
+      "GSP": "",
+      "EMPRESA": "REX4MEDIA ",
+      "TELEFONO": "971 53 68 40",
+      "EMAIL": "javier@rex4media.com",
+      "CONTACTO": "Javier Regueira",
+      "OBSERVACIONES": "Agencia marketing POLLENÇA",
+      "PRACTICAS": [
+        "SonidoDirecto",
+        "Video"
+      ],
+      "FIELD13": "",
+      "FIELD14": "",
+      "id": 66
+    },
+    {
+      "GM": "?",
+      "GSR": "?",
+      "GSI": "",
+      "GSS": "",
+      "GSA": "",
+      "GSP": "",
+      "EMPRESA": "ROCKY & CO",
+      "TELEFONO": "610820640",
+      "EMAIL": "info@rockyandco.es",
+      "CONTACTO": "Juan Manuel Herrera",
+      "OBSERVACIONES": "19/01/21: Nos mandará detalle de las funciones de los alumnos",
+      "PRACTICAS": [
+        "SonidoDirecto",
+        "Video"
+      ],
+      "FIELD13": "",
+      "FIELD14": "",
+      "id": 67
+    },
+    {
+      "GM": "?",
+      "GSR": "X",
+      "GSI": "",
+      "GSS": "",
+      "GSA": "",
+      "GSP": "",
+      "EMPRESA": "SCHOOLERS",
+      "TELEFONO": "971910222 | 696485264",
+      "EMAIL": "backoffice@schoolers.io",
+      "CONTACTO": "MARTA VIDAL",
+      "OBSERVACIONES": "Plataforma formació online",
+      "PRACTICAS": [
+        "SonidoDirecto",
+        "Video"
+      ],
+      "FIELD13": "",
+      "FIELD14": "",
+      "id": 68
+    },
+    {
+      "GM": "",
+      "GSR": "5",
+      "GSI": "?",
+      "GSS": "?",
+      "GSA": "",
+      "GSP": "",
+      "EMPRESA": "SINGULAR",
+      "TELEFONO": "",
+      "EMAIL": "",
+      "CONTACTO": "",
+      "OBSERVACIONES": "4 a Pep y 1 a Fred i Calent",
+      "PRACTICAS": [
+        "SonidoDirecto",
+        "Video"
+      ],
+      "FIELD13": "",
+      "FIELD14": "",
+      "id": 69
+    },
+    {
+      "GM": "",
+      "GSR": "X",
+      "GSI": "",
+      "GSS": "",
+      "GSA": "",
+      "GSP": "X",
+      "EMPRESA": "SOLWORKS FILMS",
+      "TELEFONO": "658 914 442",
+      "EMAIL": "mar@solworks.eu",
+      "CONTACTO": "MAR PÉREZ",
+      "OBSERVACIONES": "",
+      "PRACTICAS": [
+        "SonidoDirecto",
+        "Video"
+      ],
+      "FIELD13": "",
+      "FIELD14": "",
+      "id": 70
+    },
+    {
+      "GM": "?",
+      "GSR": "",
+      "GSI": "",
+      "GSS": "",
+      "GSA": "",
+      "GSP": "",
+      "EMPRESA": "SOUNDTOOSONG",
+      "TELEFONO": "610961506",
+      "EMAIL": "",
+      "CONTACTO": "",
+      "OBSERVACIONES": "",
+      "PRACTICAS": [
+        "SonidoDirecto",
+        "Video"
+      ],
+      "FIELD13": "",
+      "FIELD14": "",
+      "id": 71
+    },
+    {
+      "GM": "",
+      "GSR": "X",
+      "GSI": "",
+      "GSS": "",
+      "GSA": "",
+      "GSP": "",
+      "EMPRESA": "SunnySideUp Productions S.L.",
+      "TELEFONO": "649 821 122",
+      "EMAIL": "",
+      "CONTACTO": "Christina Held",
+      "OBSERVACIONES": "info@sunnysideup.tv",
+      "PRACTICAS": [
+        "SonidoDirecto",
+        "Video"
+      ],
+      "FIELD13": "",
+      "FIELD14": "",
+      "id": 72
+    },
+    {
+      "GM": "",
+      "GSR": "",
+      "GSI": "",
+      "GSS": "X",
+      "GSA": "",
+      "GSP": "",
+      "EMPRESA": "TEAM 33 ",
+      "TELEFONO": "971 741702",
+      "EMAIL": "mailbox@team33.es",
+      "CONTACTO": "Sara",
+      "OBSERVACIONES": "",
+      "PRACTICAS": [
+        "SonidoDirecto",
+        "Video"
+      ],
+      "FIELD13": "",
+      "FIELD14": "",
+      "id": 73
+    },
+    {
+      "GM": "X",
+      "GSR": "",
+      "GSI": "?",
+      "GSS": "X",
+      "GSA": "",
+      "GSP": "",
+      "EMPRESA": "TEATRE PRINCIPAL",
+      "TELEFONO": "971219689",
+      "EMAIL": "secretariadireccio@teatreprincipal.com",
+      "CONTACTO": "",
+      "OBSERVACIONES": "",
+      "PRACTICAS": "",
+      "FIELD13": "",
+      "FIELD14": "",
+      "id": 74
+    },
+    {
+      "GM": "X",
+      "GSR": "",
+      "GSI": "",
+      "GSS": "X",
+      "GSA": "",
+      "GSP": "",
+      "EMPRESA": "TECNICA AUDIOVISUAL BALEAR",
+      "TELEFONO": "676553367",
+      "EMAIL": "tecnica.audiovisual.balear@gmail.com",
+      "CONTACTO": "",
+      "OBSERVACIONES": "",
+      "PRACTICAS": [
+        "SonidoDirecto",
+        "Video"
+      ],
+      "FIELD13": "",
+      "FIELD14": "",
+      "id": 75
+    },
+    {
+      "GM": "X",
+      "GSR": "",
+      "GSI": "1",
+      "GSS": "",
+      "GSA": "",
+      "GSP": "",
+      "EMPRESA": "TOMEU COLL (Fotógrafo)",
+      "TELEFONO": "635493303",
+      "EMAIL": "tomeucoll@gmail.com",
+      "CONTACTO": "Tomeu Coll",
+      "OBSERVACIONES": "",
+      "PRACTICAS": [
+        "SonidoDirecto",
+        "Video"
+      ],
+      "FIELD13": "",
+      "FIELD14": "",
+      "id": 76
+    },
+    {
+      "GM": "",
+      "GSR": "",
+      "GSI": "",
+      "GSS": "X",
+      "GSA": "",
+      "GSP": "",
+      "EMPRESA": "TRAMUNTANA ESTUDIOS",
+      "TELEFONO": "675 874844",
+      "EMAIL": "jaumegelabertm@gmail.com",
+      "CONTACTO": "Jaume Gelabert",
+      "OBSERVACIONES": "",
+      "PRACTICAS": [
+        "SonidoDirecto",
+        "Video"
+      ],
+      "FIELD13": "",
+      "FIELD14": "",
+      "id": 77
+    },
+    {
+      "GM": "",
+      "GSR": "",
+      "GSI": "",
+      "GSS": "",
+      "GSA": "",
+      "GSP": "",
+      "EMPRESA": "TVE",
+      "TELEFONO": "",
+      "EMAIL": "",
+      "CONTACTO": "",
+      "OBSERVACIONES": "",
+      "PRACTICAS": [
+        "SonidoDirecto",
+        "Video"
+      ],
+      "FIELD13": "",
+      "FIELD14": "",
+      "id": 78
+    },
+    {
+      "GM": "",
+      "GSR": "",
+      "GSI": "",
+      "GSS": "X",
+      "GSA": "",
+      "GSP": "",
+      "EMPRESA": "VIDEO REPORT ",
+      "TELEFONO": "618223169",
+      "EMAIL": "mariaj.martinez@tres60grupo.com",
+      "CONTACTO": "Mª Jesús Martínez",
+      "OBSERVACIONES": "",
+      "PRACTICAS": [
+        "SonidoDirecto",
+        "Video"
+      ],
+      "FIELD13": "",
+      "FIELD14": "",
+      "id": 79
+    },
+    {
+      "GM": "?",
+      "GSR": "?",
+      "GSI": "",
+      "GSS": "",
+      "GSA": "?",
+      "GSP": "",
+      "EMPRESA": "WE-FOUR",
+      "TELEFONO": "",
+      "EMAIL": "enriquefranco@we-four.com",
+      "CONTACTO": "ENRIQUE FRANCO",
+      "OBSERVACIONES": "",
+      "PRACTICAS": [
+        "SonidoDirecto",
+        "Video"
+      ],
+      "FIELD13": "",
+      "FIELD14": "",
+      "id": 80
+    },
+    {
+      "GM": "",
+      "GSR": "",
+      "GSI": "",
+      "GSS": "",
+      "GSA": "X",
+      "GSP": "",
+      "EMPRESA": "XALOC STUDIOS",
+      "TELEFONO": "",
+      "EMAIL": "joanpons@xalocstudios.com",
+      "CONTACTO": "Joan Pons",
+      "OBSERVACIONES": "15/02/21: en unas semanas nos confirman disponibilidad",
+      "PRACTICAS": [
+        "SonidoDirecto",
+        "Video"
+      ],
+      "FIELD13": "",
+      "FIELD14": "",
+      "id": 81
+    },
+    {
+      "GM": "?",
+      "GSR": "?",
+      "GSI": "",
+      "GSS": "",
+      "GSA": "",
+      "GSP": "",
+      "EMPRESA": "ZINKFO",
+      "CONTACTO": "Rocío Gutiérrez",
+      "EMAIL": "rociogutierrez@zinkfo.com",
+      "TELEFONO": "609118071",
+      "PRACTICAS": "MontajeVideo, Sonido",
+      "id": 82
+    },
+    {
+      "GM": "",
+      "GSR": "",
+      "GSI": "",
+      "GSS": "",
+      "GSA": "",
+      "GSP": "",
+      "EMPRESA": "ÁNGELA COVAS",
+      "TELEFONO": "",
+      "EMAIL": "",
+      "CONTACTO": "",
+      "OBSERVACIONES": "",
+      "PRACTICAS": [
+        "SonidoDirecto",
+        "Video"
+      ],
+      "FIELD13": "",
+      "FIELD14": "",
+      "id": 83
+    },
+    {
+      "GM": "X",
+      "GSR": "X",
+      "GSI": "X",
+      "GSS": "X",
+      "GSA": "X",
+      "GSP": "X",
+      "EMPRESA": "Online2",
+      "CONTACTO": "Tolo P",
+      "PRACTICAS": [
+        "SonidoDirecto",
+        "Video"
+      ],
+      "EMAIL": "do.com@h.com",
+      "TELEFONO": "999999",
+      "OBSERVACIONES": "si quieren SONIDO",
+      "id": 84
+    },
+    {
+      "GM": "",
+      "GSR": "",
+      "GSI": "",
+      "GSS": "",
+      "GSA": "",
+      "GSP": "",
+      "EMPRESA": "PASTERETES",
+      "CONTACTO": "LOURDES",
+      "PRACTICAS": [
+        "SonidoDirecto",
+        "Video"
+      ],
+      "EMAIL": "LOU@LOU.COM",
+      "TELEFONO": "987987987",
+      "OBSERVACIONES": "",
+      "id": 85
+    },
+    {
+      "GM": "",
+      "GSR": "",
+      "GSI": "",
+      "GSS": "",
+      "GSA": "",
+      "GSP": "",
+      "EMPRESA": "RAIXA",
+      "CONTACTO": "RAIXA",
+      "EMAIL": "RAIXA.E@RAIXA.COM",
+      "TELEFONO": "987987987",
+      "PRACTICAS": [
+        "MontajeVideo",
+        " Sonido",
+        " Guion"
+      ],
+      "id": 86
+    },
+    {
+      "GM": "",
+      "GSR": "",
+      "GSI": "",
+      "GSS": "",
+      "GSA": "",
+      "GSP": "",
+      "EMPRESA": "RAIXA2",
+      "CONTACTO": "RAIXA",
+      "EMAIL": "RAIXA.E@RAIXA.COM",
+      "TELEFONO": "987987987",
+      "PRACTICAS": "MontajeVideo, Sonido",
+      "id": 87
+    },
+    {
+      "GM": "",
+      "GSR": "",
+      "GSI": "",
+      "GSS": "",
+      "GSA": "",
+      "GSP": "",
+      "EMPRESA": "RAIXA3",
+      "CONTACTO": "RAIXA",
+      "EMAIL": "RAIXA.E@RAIXA.COM",
+      "TELEFONO": "",
+      "PRACTICAS": [
+        "MontajeVideo",
+        "Sonido",
+        "Iluminacion"
+      ],
+      "id": 88
+    },
+    {
+      "GM": "",
+      "GSR": "",
+      "GSI": "",
+      "GSS": "",
+      "GSA": "",
+      "GSP": "",
+      "EMPRESA": "RAIXA5",
+      "CONTACTO": "RAIXA",
+      "EMAIL": "RAIXA.E@RAIXA.COM",
+      "TELEFONO": "987987987",
+      "PRACTICAS": [
+        "Produccion de Ficcion",
+        " Guion"
+      ],
+      "id": 89
+    },
+    {
+      "GM": "",
+      "GSR": "",
+      "GSI": "",
+      "GSS": "",
+      "GSA": "",
+      "GSP": "",
+      "EMPRESA": "RAIXA6",
+      "CONTACTO": "RAIXA",
+      "EMAIL": "RAIXA.E@RAIXA.COM",
+      "TELEFONO": "987987987",
+      "PRACTICAS": [
+        "SonidoDirecto"
+      ],
+      "OBSERVACIONES": "",
+      "id": 90
+    }
+  ]
+}

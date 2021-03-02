@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel='stylesheet' href="/table.css">
+    <link rel='stylesheet' href="/css/bootstrap.min.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+    <table class="table">
+        <thead class="thead-dark">
+            <tr>
+                <th scope="col" id="sortDate">Curso</th>
+                <th scope="col" id="sortName">Nombre</th>              
+                <th scope="col" >Localidad</th> 
+                <th scope="col">Email_Alumno</th>
+                <th scope="col">Contacto Alumno</th>       
+                <th scope="col">Practicas</th>
+                <th scope="col">Empresa</th>
+                <th scope="col">Contacto Emp.</th>
+                <th scope="col">Editar</th>    
+            </tr>
+        </thead>
+        <tbody class="tableAlumnos" id="listado_Alumnos">
+
+            
+        </tbody>
+       
+    </table>
+
+   <!---  <button type="button" id="sortar">Sort</button> -->
+    <button type="button" class="btn btn-success" onclick="window.location='/html/index.html'">Volver al Menu</button>
+
+    <script src="/js/mostrarAlumnos.js" type="module"></script>
+    
+</body>
+</html>

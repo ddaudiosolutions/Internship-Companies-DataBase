@@ -1,0 +1,66 @@
+.thead-dark {
+    font-family: Courier, monospace;
+    font-weight: lighter;
+
+}
+
+/*.tablaBody{
+    width: 1800px;
+    display: grid;
+    border:solid 1px;
+    border-radius: 5px;
+    grid-template-columns: repeat(9, 200px);
+}*/
+
+
+
+/*.tablaRow{
+    
+    width: 1800px;    
+    display: grid;
+    grid-template-columns: repeat(9, 200px);
+    grid-template-rows: 30px;    
+    border-bottom:solid 1px rgb(240, 200, 200);
+    
+}*/
+/*.tablaRowEmp{
+    
+    width: 1800px;    
+    display: grid;
+    grid-template-columns: repeat(6, 50px) repeat(7, 200px);
+    grid-template-rows: 30px;    
+    border-bottom:solid 1px rgb(240, 200, 200);
+    
+}*/
+/*.tableAlumnos tr {
+
+    width: 1800px;    
+    display: grid;
+    grid-template-columns: repeat(9, 200px) ;
+    grid-template-rows: 30px;    
+    border-bottom:solid 1px rgb(240, 200, 200);
+    padding-top: 10px;
+    text-align: center; 
+
+}*/
+
+/*.tableEmp tr {
+
+    width: 1800px;    
+    display: grid;
+    grid-template-columns: repeat(6, 50px) repeat(7, 200px);
+    grid-template-rows: auto;    
+    border-bottom:solid 1px rgb(240, 200, 200);
+    padding-top: 10px;
+    text-align: center; 
+
+}*/
+
+/*.masancho{
+    grid-template-rows: 60px;  
+}*/
+
+
+
+
+

@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+   
+    <link rel="stylesheet" href="/style.css">
+    <link rel='stylesheet' href="/css/bootstrap.min.css">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" 
+    crossorigin="anonymous"></script>
+    <title>Document</title>
+</head>
+<body>
+  <div class="contenedor">
+    <div class="titulo">BASE DE DATOS DE PRÁCTICAS CEF </div>
+      
+    <div class="row justify-content-md-center" style="padding-bottom: 35px ;"> 
+                <div class="col-md-2 text-center">
+                  <a href="/html/tablaResultadosAlumnos.html" class="btn-lg btn-primary btn-block ">Alumnos</a>
+                </div>           
+                  
+                <div class="col-md-2 text-center">
+                    <a href="/html/tablaResultadosEmpresas.html" class="btn-lg  btn-warning btn-block ">Empresas</a>
+                </div>
+
+                <div class="col-md-2  text-center">
+                    <a href="/html/nuevoAlumno.html" class="btn-lg btn-danger btn-block">Nuevo Alumno</a>
+                </div>
+
+                <div class="col-md-2  text-center">
+                  <a href="/html/nuevaEmpresa.html" class="btn-lg btn-primary btn-block ">Nueva Empresa</a>
+                </div>   
+    </div> 
+  </div>
+
+      <div class="itemH2">
+        <h2>BUSCADOR DE PRÁCTICAS</h2>
+      </div>
+    <div id="Buscador" class="row col-md-12 offset-md-4" style="margin-top: 20px">
+      <div class="form-group col-md-2">
+        <label for="curso">Curso</label>
+        <select class="form-control" id="curso">
+          <option value="">Seleccione</option>
+          <option value="CFGSS">CFGSS</option>
+          <option value="CFGSR">CFGSR</option>
+          <option value="CFGSI">CFGSI</option>
+          <option value="CFGSA">CFGSA</option>
+          <option value="CFGSP">CFGSP</option>
+          <option value="CFGMVDJ">CFGMVDJ</option>
+        </select>
+      </div>
+
+        <div class="form-group col-md-2">
+            <label for="practicas">Prácticas</label>
+            <select class="form-control" id="practicas">
+              <option value="">Seleccione</option>
+              <!-- <option value="sonido_ficcion">Sonido_Ficción</option>
+              <option value="sonido_directo">Sonido_Directo</option>
+              <option value="estudio">Estudio</option>
+              <option value="radio">Radio</option>
+              <option value="television">Televisión</option>
+              <option value="teatro">Teatro</option>-->
+            </select>
+        </div> 
+    </div>
+    <div type="button" id="btnBuscar" class="btn btn-success col-md-2 offset-md-5" > BUSCAR </div>
+<div>
+<table class="table table-hover">
+
+  <tbody id="listado_Empresas"> LISTADO DE EMPRESAS </tbody>
+
+</table>
+
+</div>
+   
+
+    <script src="/js/app.js" type="module"></script>
+    <script src="/js/js/bootstrap.min.js"></script>
+</body>
+</html>

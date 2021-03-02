@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="/style.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EDITAR ALUMNO</title>
+</head>
+<body>
+    <div class="itemH2">
+        <h2>EDITAR ALUMNO</h2>
+    </div>
+    <div class="body" >
+        <form class="container" id="formularioAl">
+            <div class="item">
+                <label for ="curso" class="item"> Curso </label>
+                <input type="text" id="curso" placeholder="Curso Alumno">
+            </div>
+
+            <div class="item">
+                <label for ="nombreAl" class="item"> Nombre </label>
+                <input type="text" id="nombreAl" placeholder="Nombre Alumno">
+            </div>
+            <div class="item">
+                <label for ="localidadAl" class="item"> Localidad </label>
+                <input type="text" id="localidadAl" placeholder="Apellidos Alumno">
+            </div>
+            
+            <div class="item">
+                <label for ="emailAl" class="item"> Email </label>
+                <input type="text" id="emailAl" placeholder="Email Alumno">
+            </div>
+            <div class="item">
+                <label for ="telefonoAl" class="item"> Telefono </label>
+                <input type="text" id="telefonAl" placeholder="Telefono Alumno">
+            </div>
+            <div class="item">
+                <label for ="practicas" class="item"> Practicas </label>
+                <input type="text" id="practicas" placeholder="Practicas Alumno">
+            </div>
+           
+            <div class="item">
+                <label for ="empresa_alumno" class="item"> Empresa </label>
+                <input type="text" id="empresa_alumno" placeholder="Empresa">
+            </div>
+            <div class="item">
+                <label for ="Contacto_Emp" class="item"> Contacto_Emp </label>
+                <input type="text" id="contacto_emp" placeholder="Contacto_Emp">
+            </div> 
+
+            <input type="hidden" name="id" id="id" value="">
+
+            <div class="itembtn" >
+                <button type="submit" id="botonAgr"> Guardar Cambio</button>
+            </div>
+        </form>
+    </div>
+    <div>
+        <button type="button" onclick="window.location='/html/index.html'">Volver al Menu</button>
+
+    </div>
+    <script src="/js/editarAlumno.js" type="module"></script>
+</body>
+</html>
