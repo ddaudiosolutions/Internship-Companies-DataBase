@@ -145,6 +145,8 @@ btnBuscar.addEventListener('click', mostrarSeleccionEmp)
 async function mostrarSeleccionEmp(){
    
     limpiarhtml(listadoempresas)
+    crearCabecera();
+   
 
     const empresas =  await obtenerEmpresas()
     
@@ -167,8 +169,9 @@ async function mostrarSeleccionEmp(){
            console.log(empresas[i].EMPRESA + ' ' + 'No tienen prácticas asignadas de' + ' ' + seleccion)
        }
        
-       
    }   
+   
+   
     
 }
 
@@ -176,34 +179,70 @@ function crearTabla(empresa)
 {
     const { EMPRESA, PRACTICAS, id} = empresa;
 
+        
+
            const row = document.createElement('tr');
-           row.style.borderBottom = 'solid 1px';
-           row.style.borderBottomColor = 'pink';
+           row.classList.add('border','border-primary')
 
            const cnombreEmp = document.createElement('td')
            cnombreEmp.textContent =`${EMPRESA}`;
+           cnombreEmp.classList.add('border', 'border-primary')
 
            const cpracticas = document.createElement('td')
-           cpracticas.textContent =`${PRACTICAS}`;        
+           cpracticas.textContent =`${PRACTICAS}`;    
+           cpracticas.classList.add('border', 'border-primary')   
+           
+           const cAlumno = document.createElement('td')
+           cAlumno.textContent = 'ALUMNO';    
+           cAlumno.classList.add('border', 'border-primary')
 
+           
            const cMostrarEmp = document.createElement('td');
             const mostrarEmp = document.createElement('a');
             mostrarEmp.href=`mostrarEmpresa.html?id=${id}`;
             mostrarEmp.innerText = 'mostrar';
+            cMostrarEmp.classList.add('border', 'border-primary') 
             cMostrarEmp.appendChild(mostrarEmp)
 
             const cEditarEmp = document.createElement('td');
              const editarEmp = document.createElement('a');
             editarEmp.href=`editarEmpresa.html?id=${id}`;
             editarEmp.innerText = 'editar';
+            cEditarEmp.classList.add('border', 'border-primary') 
+
             cEditarEmp.appendChild(editarEmp)
             
            row.appendChild(cnombreEmp);
            row.appendChild(cpracticas)
+           row.appendChild(cAlumno)
            row.appendChild(cMostrarEmp)
            row.appendChild(cEditarEmp)
 
+           
+
            listadoempresas.appendChild(row)        
+
+}
+function crearCabecera()
+{   
+    const rowH = document.createElement('tr');
+
+    const headRow = document.createElement('th');
+        headRow.innerText = 'EMPRESA';
+
+    const headRow2 = document.createElement('th');
+        headRow2.innerText = 'PRACTICAS';
+
+        const headRow3 = document.createElement('th');
+        headRow3.innerText = 'ALUMNO';
+       
+       
+
+        
+        rowH.appendChild(headRow)
+        rowH.appendChild(headRow2)
+        rowH.appendChild(headRow3)
+        listadoempresas.appendChild(rowH)
 
 }
  
